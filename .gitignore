@@ -1,0 +1,9 @@
+.idea
+.git
+*.pyc
+logs/
+venv/
+confs/ysx.py
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
